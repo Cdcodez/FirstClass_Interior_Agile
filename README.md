@@ -3,12 +3,12 @@ The purpose this project is to fulfil the needs of Smith Private Limited. That i
 
 Created by:  
 
-Anjolina - Designer  
+Carol - Designer  
 
-Carol - Tester 
+Arthur - Tester 
 
-Bailey - Project Leader/Scrum Master
+Anjolina - Project Leader
 
-Arthur - Developer
+Bailey - Developer
 
 Angel - Assistant Dev
